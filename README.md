@@ -1,4 +1,5 @@
 Global Economic & Geopolitical Intelligence Dashboard
+
 💡 Project Overview
 An end-to-end data analytics project that integrates macroeconomic indicators with real-time commodity market trends. The dashboard provides a high-level view of how global inflation correlates with asset pricing (Gold & Crude Oil) across major economies including India, USA, China, and Germany.
 
